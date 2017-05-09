@@ -1,4 +1,4 @@
-# Fog-of-War
+# Fog of War
 
 ### Developers ###
 
